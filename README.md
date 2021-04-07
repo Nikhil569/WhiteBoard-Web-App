@@ -1,4 +1,4 @@
-# WhiteBoard-Web-App
+# WhiteBoard Web-App
 Tried making a whiteboard using React and Konva.js
 
 ## Functionalities of the Web-App
